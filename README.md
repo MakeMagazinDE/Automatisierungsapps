@@ -4,12 +4,12 @@ Maker Media GmbH
 
 ***
 
-# Universaler Fräs- und Sägetisch
+# Android Automatisieren
 
-### Mit unseren Umbauideen wird aus einer normalen Tischkreissäge eine Fräs-Sagekombination.
+### Moderne Automatisierungswerkzeuge machen teilweise Erstaunliches möglich und das, ohne eine einzige Zeile Code schreiben zu müssen.
 
-Platznot ist ein chronisches Problem in vielen Bastelräumen. Zum Glück wird aus einer Tischkreissäge schnell und günstig ein universaler Fräs- und Sägetisch.
+Hier finden Sie den Arduino-Sketch, den Sie benötigen um die im Artikel beschriebenen Apps zu testen.
 
 ![Picture](https://github.com/MakeMagazinDE/Fraestisch/blob/master/Fraestisch.jpg) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der [Make-Ausgabe 5/19 ab Seite 118](https://www.heise.de/select/make/2019/5/1571592996373573). Hier finden Sie die 3D-Druckdateien für die Absaugung.
+Den vollständigen Artikel gibt es in der [Make-Ausgabe 6/24 ab Seite xxx](https://www.heise.de/select/make/2019/5/1571592996373573).
