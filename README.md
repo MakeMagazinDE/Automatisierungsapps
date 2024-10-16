@@ -4,7 +4,7 @@ Maker Media GmbH
 
 ***
 
-# Android Automatisieren
+# Android automatisieren
 
 ### Moderne Automatisierungswerkzeuge machen teilweise Erstaunliches möglich und das, ohne eine einzige Zeile Code schreiben zu müssen.
 
